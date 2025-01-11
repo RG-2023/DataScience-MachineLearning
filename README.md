@@ -1,5 +1,5 @@
 # Project on Linear Regression Model
-## Table of contents
+## **Table of contents**
 ### Importing libraries
 ### Reading in file and getting data
 ### Exploring data 
