@@ -4,4 +4,4 @@
 ### - Loading data
 ### - Answering basic questions
 ### - Creating new features
-### - Operations and plotting related to time information in dataframe
+### - Operations related to time information in dataframe
