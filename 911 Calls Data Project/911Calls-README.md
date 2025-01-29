@@ -1,4 +1,4 @@
-# Project on 911 Calls Data
+# 911 Calls Data Project
 ## **Table of contents**
 ### - Importing libraries
 ### - Loading data
