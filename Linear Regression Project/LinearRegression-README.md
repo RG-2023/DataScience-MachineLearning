@@ -1,4 +1,4 @@
-# Project on Linear Regression Model
+# Linear Regression Project
 ## **Table of contents**
 ### - Importing libraries
 ### - Reading in file and getting data
