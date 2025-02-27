@@ -6,3 +6,4 @@
 ### - Measures of Central Tendency 
 ### - Measures of Variablity 
 ### - Measures of Asymmetry
+### - Measures of relationship between two variables
